@@ -1,0 +1,164 @@
+*{
+    padding: 0px;
+    margin: 0%;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+    display: flex; 
+    gap: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.ku{
+    display: flex;justify-content: center;
+    gap: 20px;
+    text-align: center;
+    color: rgb(0, 183, 255);
+     width: 800px;              /* Largura da caixa */
+  background-color: #f0f0f0; /* Cor de fundo */
+  border: 2px solid #ccc;    /* Borda ao redor */
+  padding: 20px;             /* Espaçamento interno */
+  border-radius: 8px;        /* Cantos arredondados */
+  margin: 0 auto;      
+}
+h1{
+    color: blue;
+}
+u{
+    display: flex; 
+    gap: 10px;
+}
+.color{
+    background-color: rgb(167, 33, 245);
+}
+
+
+.cor{
+  width: 800px;              /* Largura da caixa */
+  background-color: #e6f2ff; /* Cor de fundo */
+  border: 2px solid rgb(135, 206, 235);    /* Borda ao redor */
+  padding: 20px;             /* Espaçamento interno */
+  border-radius: 8px;        /* Cantos arredondados */
+  margin: 0 auto;    
+  height: 70px; 
+  display: flex;
+  justify-content: center; /* Centraliza na horizontal */
+  align-items: center;     /* Centraliza na vertical */
+  display: flex; 
+  gap: 10px;
+}
+h2{
+     display: flex; justify-content: center;
+     height: 100px;
+     justify-content: center; /* Centraliza na horizontal */
+     align-items: center; 
+}
+ .codorna{
+  width: 500px;              /* Largura da caixa */
+  background-color: #e6f2ff; /* Cor de fundo */
+  border: 2px solid rgb(135, 206, 235);    /* Borda ao redor */
+  padding: 20px;             /* Espaçamento interno */
+  border-radius: 8px;        /* Cantos arredondados */
+  margin: 0 auto;    
+  height: 50px; 
+  display: flex;
+  justify-content: center; /* Centraliza na horizontal */
+  align-items: center;     /* Centraliza na vertical */
+  
+
+ }
+ .location{
+     cursor: pointer;
+     list-style: none;
+     width: 800px;              /* Largura da caixa */
+     background-color: #e6f2ff; /* Cor de fundo */
+     border: 2px solid rgb(135, 206, 235);    /* Borda ao redor */
+     padding: 20px;             /* Espaçamento interno */
+     border-radius: 8px;        /* Cantos arredondados */
+     margin: 0 auto;    
+     height: 70px; 
+     display: flex;
+     justify-content: safe; /* Centraliza na horizontal */
+     align-items: center;     /* Centraliza na vertical */
+     display: flex; 
+     gap: 10px;
+}
+.eleitores{
+    display: flex;
+    text-align: center;
+
+}
+.luly{
+      display: flex;justify-content: center;
+    gap: 20px;
+    text-align: center;
+    color: rgb(0, 183, 255);
+     width: 400px;              /* Largura da caixa */
+  background-color: #e6f2ff; /* Cor de fundo */
+  border: 2px solid rgb(0, 183, 255);    /* Borda ao redor */
+  padding: 20px;             /* Espaçamento interno */
+  border-radius: 8px;        /* Cantos arredondados */
+  margin: 0 auto;    
+}
+.Flavim{
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      text-align: center;
+     color: rgb(0, 183, 255);
+     width: 400px;              /* Largura da caixa */
+  background-color: #e6f2ff; /* Cor de fundo */
+  border: 2px solid rgb(0, 183, 255);    /* Borda ao redor */
+  padding: 20px;             /* Espaçamento interno */
+  border-radius: 8px;        /* Cantos arredondados */
+  margin: 0 auto;    
+}
+.lulys{
+     display: flex;             /* Deixa os filhos lado a lado */
+     align-items: center;       /* Alinha verticalmente ao centro */
+     gap: 15px;                 /* Espaçamento entre a imagem e o texto */
+    max-width: 100px;          /* Ajuste o tamanho da imagem */
+     height: auto;
+}
+.eleitores{
+     display: flex;
+     align-items: center;
+     height: auto;
+}
+.lu{
+    height: 407px;
+    justify-content: center;
+    display: flex;justify-content: center;
+    gap: 20px;
+    text-align: center;
+    color: rgb(0, 183, 255);
+     width: 300px;              /* Largura da caixa */
+  background-color: #e6f2ff; /* Cor de fundo */
+  border: 2px solid rgb(0, 183, 255);    /* Borda ao redor */
+  padding: 20px;             /* Espaçamento interno */
+  border-radius: 8px;        /* Cantos arredondados */
+  margin: 0 auto;    
+}
+.fla{
+    height: 407px;
+    justify-content: center;
+    display: flex;justify-content: center;
+    gap: 20px;
+    text-align: center;
+    color: rgb(0, 183, 255);
+     width: 300px;              /* Largura da caixa */
+  background-color: #e6f2ff; /* Cor de fundo */
+  border: 2px solid rgb(0, 183, 255);    /* Borda ao redor */
+  padding: 20px;             /* Espaçamento interno */
+  border-radius: 8px;        /* Cantos arredondados */
+  margin: 0 auto;    
+}
+.Urna{
+ display: flex;
+  text-align: center;
+   background-color: #e6f2ff; /* Cor de fundo */
+  border: 2px solid rgb(0, 183, 255);    /* Borda ao redor */
+   margin: 0 auto; 
+   
+}
